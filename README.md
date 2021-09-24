@@ -1,2 +1,3 @@
 # php-calculator
-![image](https://user-images.githubusercontent.com/90373649/134679761-ab1941d1-52e9-4aff-8c26-e25b7ba43126.png)
+ 
+![image](https://user-images.githubusercontent.com/90373649/134680278-361df95d-5d5d-45bc-8d8d-43f209d3839b.png)
